@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Tamir Madas
-=======
-Tamir Madar
->>>>>>> new_branch
